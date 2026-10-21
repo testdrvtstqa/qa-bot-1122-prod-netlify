@@ -4,6 +4,9 @@
 
 [build.environment]
   NODE_VERSION = "22"
+  GD_CLIENT_ID = "123456789012-qafakegh1122testonly.apps.googleusercontent.com"
+  GD_APP_ID = "123456789012"
+  GD_API_KEY = "AIzaQaFakeKeyGh1122TestOnly000000000000"
 
 [[redirects]]
   from = "/*"
